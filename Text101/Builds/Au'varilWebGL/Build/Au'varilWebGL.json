@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Au'varilWebGL.data.unityweb",
+"asmCodeUrl": "Au'varilWebGL.asm.code.unityweb",
+"asmMemoryUrl": "Au'varilWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Au'varilWebGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
